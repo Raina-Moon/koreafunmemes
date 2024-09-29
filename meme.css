@@ -1,0 +1,29 @@
+img {
+    width: 300px;
+    height: 300px;
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    background-color: #FFF5E4;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: #CD5C08;
+    margin-bottom: 5px;
+    border: 8px solid #6A9C89;
+}
+
+h2 {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+p {
+    font-size: 20px;
+
+    background-color: #C1D8C3;
+}
